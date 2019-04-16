@@ -1,0 +1,29 @@
+{
+  "name": "knex",
+  "version": "1.0.0",
+  "main": "knex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^1.1.1",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "mongo": "^0.1.0",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhkhoi1997/knex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manhkhoi1997/knex/issues"
+  },
+  "homepage": "https://github.com/manhkhoi1997/knex#readme",
+  "description": ""
+}
